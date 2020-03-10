@@ -18,4 +18,4 @@
 
 段落です。
 
-(リンクです。)[https://github.com]
+[リンクです。](https://github.com)
